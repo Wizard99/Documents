@@ -34,3 +34,6 @@ Wir versprechen, daß ein Update solcher Art nur sehr selten geschehen wird und 
 
 Wenn Ihr es nun bis hierher geschafft habt, dann habt Ihr Euch eine Belohnung verdient. Hier ist das ungeschnittene Spielfiguren-„Umfang an Bewegungen“-Video, von dem Ihr letzte Woche in Wingman’s Hangar einen Teil sehen konntet. Es zeigt Euch, wie das Figuren-Modell, dessen Entstehung Ihr vor einigen Wochen verfolgen konntet, im fertigen Spiel funktionieren wird … wie wie Figur laufen wird, wie sie sprechen wird und … ja … letztendlich, wie sie eine Armbrust abfeuern wird.
 Ihr seht hier Spielgrafik in Echtzeit, kein vorher berechnetes und aufgezeichnetes Video.
+
+
+Übersetzung: Wizard, für star-citizen-hq.de
